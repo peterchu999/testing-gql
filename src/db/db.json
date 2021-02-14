@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "email": "member@member.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1571213104370,
+      "id": "Z2hlvDmLOSRZGebC_Z_aA"
+    },
+    {
+      "email": "asd@asd.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1610872079695,
+      "id": "bUll_GFSkDg-RdrlSf4I5"
+    },
+    {
+      "email": "asd@asds.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1610872414911,
+      "id": "wRrPcF_dguLR3kVHjHsIx"
+    },
+    {
+      "email": "asd@as.com",
+      "password": "password",
+      "role": "ADMIN",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1610872745129,
+      "id": "9PGJ2qxPqWnEZdaSXMWMD"
+    },
+    {
+      "email": "peter@andrew.com",
+      "password": "password",
+      "role": "MEMBER",
+      "verified": false,
+      "avatar": "http",
+      "createdAt": 1610872799611,
+      "id": "WGaTy1rZXXTg2bezHY1Pl"
+    }
+  ],
+  "posts": [
+    {
+      "message": "killa da kill",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881012786,
+      "id": "bWV6Mcc-esGbcikS0bu1_"
+    },
+    {
+      "message": "killa da kill",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881063267,
+      "id": "N-EaoUcnJJPK-W4joDTZi"
+    },
+    {
+      "message": "killa da kill",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881098072,
+      "id": "7OQYT1fMAEhkxjXEyTYFT"
+    },
+    {
+      "message": "killa da kill",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881193805,
+      "id": "mWNLn97bYcv7yNkb1-SyF"
+    },
+    {
+      "message": "killa da kill",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881201718,
+      "id": "T4Zj7VMdN7slFHQ-bFinE"
+    },
+    {
+      "message": "killa da Hosee",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610881210468,
+      "id": "n3xVUeULLKnTZPe6AE1eO"
+    },
+    {
+      "message": "killa da Hosee",
+      "author": "WGaTy1rZXXTg2bezHY1Pl",
+      "createdAt": 1610889926972,
+      "id": "SreCCgMKxLjk_yIgMmxf7"
+    }
+  ],
+  "settings": []
+}
